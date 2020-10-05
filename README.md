@@ -8,3 +8,6 @@
 
 ## 교재
 ![파이썬 머신러닝 완벽 가이드](https://user-images.githubusercontent.com/69614150/90767474-3f64f780-e328-11ea-8dc0-74147960f328.jpg)
+
+## 참고
+[차원축소 강의](https://www.youtube.com/playlist?list=PLalb9l0_6WAqC_ytofaE-Q4SPsqgT3EmJ)
