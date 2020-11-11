@@ -14,6 +14,7 @@
 ## 목차 및 참고자료
 1. 머신러닝 개요 및 사이킷런 소개
 - [K-Fold 교차검증](https://velog.io/@skyepodium/K-Fold-%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D): KFold에서 shuffle=True로 설정하는 것과 StratifiedKFold를 사용하는 것의 차이
+- [머신러닝5. 하이퍼파라미터 튜닝 (GridSearchCV, RandomizedSearchCV)](https://blog.naver.com/dalgoon02121/222103377185): RandomizedSearchCV 적용하기
 
 
 
