@@ -11,7 +11,13 @@
 ## 교재
 ![파이썬 머신러닝 완벽 가이드](https://user-images.githubusercontent.com/69614150/90767474-3f64f780-e328-11ea-8dc0-74147960f328.jpg)
 
-## 참고
+## 목차 및 참고자료
+1. 머신러닝 개요 및 사이킷런 소개
+- [K-Fold 교차검증](https://velog.io/@skyepodium/K-Fold-%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D): KFold에서 shuffle=True로 설정하는 것과 StratifiedKFold를 사용하는 것의 차이
+
+
+
+## 기타
 - 저자의 강의 [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)를 참고하여 공부하고 있습니다.
 
 - [차원축소 - 주성분분석(PCA)과 요인분석(Factor Analysis)](https://www.youtube.com/playlist?list=PLalb9l0_6WAqC_ytofaE-Q4SPsqgT3EmJ) 파트6 차원축소에서 PCA의 이론적인 설명을 더 공부하기 위해 보충하면 좋을 강의입니다.
