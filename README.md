@@ -17,7 +17,7 @@
 - [머신러닝5. 하이퍼파라미터 튜닝 (GridSearchCV, RandomizedSearchCV)](https://blog.naver.com/dalgoon02121/222103377185): RandomizedSearchCV 적용하기
 
 2. 머신러닝 평가 방법 및 이론
-- [파이썬에서 ROC곡선 쉽게 그리는 방법](https://tariat.tistory.com/754?category=678799): 사이킷런에서는 ROC커브를 그리는 기능을 제공해주지 않는데, yellow brick이라는 패키지를 통해 분류모델에서 ROC커브를 쉽게 그릴 수 있습니다. from yellowbrick.classifier import ROCAUC.
+- [파이썬에서 ROC곡선 쉽게 그리는 방법](https://www.scikit-yb.org/en/latest/api/classifier/rocauc.html): 사이킷런에서는 ROC커브를 그리는 기능을 제공해주지 않는데, yellow brick이라는 패키지를 통해 분류모델에서 ROC커브를 쉽게 그릴 수 있습니다. from yellowbrick.classifier import ROCAUC.
 
 
 
