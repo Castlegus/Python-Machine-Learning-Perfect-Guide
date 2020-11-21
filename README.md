@@ -4,7 +4,9 @@
 
 홀로 공부중이었으나, 마침 활동하고 있는 대학 연합 빅데이터 동아리에서의 교재로 선정되어 정리해가며 공부하려고 합니다.
 
-먼저 인프런에서 저자(권철민님)의 강의를 듣고 Q&A도 참고해가며 필사하면서 공부하고 있습니다. 이후 빅데이터 동아레이서의 커리큘럼이 진행되면 복습하는 식으로 수정/추가/보완할 예정입니다.
+먼저 인프런에서 저자(권철민님)의 강의를 듣고 Q&A도 참고해가며 필사하면서 공부하고 있습니다. 이후 빅데이터 동아리에서의 커리큘럼이 진행되면 복습하는 식으로 수정/추가/보완할 예정입니다.
+
+-> VITAMIN 폴더에 빅데이터 학회 활동 내용을 정리하고 있습니다.
 
 [빅데이터 대학생 연합 동아리 BITAmin 활동 일지 (작성/제공: 비타민 기획부 김지윤)](https://cafe.naver.com/bitamin123/1685)
 
@@ -17,7 +19,7 @@
 - [머신러닝5. 하이퍼파라미터 튜닝 (GridSearchCV, RandomizedSearchCV)](https://blog.naver.com/dalgoon02121/222103377185): RandomizedSearchCV 적용하기
 
 2. 머신러닝 평가 방법 및 이론
-- [파이썬에서 ROC곡선 쉽게 그리는 방법](https://tariat.tistory.com/754?category=678799): 사이킷런에서는 ROC커브를 그리는 기능을 제공해주지 않는데, yellow brick이라는 패키지를 통해 분류모델에서 ROC커브를 쉽게 그릴 수 있습니다. from yellowbrick.classifier import ROCAUC.
+- [파이썬에서 ROC곡선 쉽게 그리는 방법](https://www.scikit-yb.org/en/latest/api/classifier/rocauc.html): 사이킷런에서는 ROC커브를 그리는 기능을 제공해주지 않는데, yellow brick이라는 패키지를 통해 분류모델에서 ROC커브를 쉽게 그릴 수 있습니다. from yellowbrick.classifier import ROCAUC.
 
 
 
