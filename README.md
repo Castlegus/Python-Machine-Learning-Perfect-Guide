@@ -31,3 +31,5 @@
 - [국민대학교 김남규 교수 - 10_데이터과학개론](https://www.youtube.com/playlist?list=PLg_wJlcMiuKvNOT6H0dWEDmMHtfiC8yru): 전반적인 데이터 분석의 프로세스와 머신러닝 알고리즘의 원리를 이해하기 좋은 강의입니다.
 
 - [차원축소 - 주성분분석(PCA)과 요인분석(Factor Analysis)](https://www.youtube.com/playlist?list=PLalb9l0_6WAqC_ytofaE-Q4SPsqgT3EmJ) 파트6 차원축소에서 PCA의 이론적인 설명을 더 공부하기 위해 보충하면 좋을 강의입니다.
+
+- [사이킷런(scikit-learn)으로 학습한 모델 저장하기](https://gaussian37.github.io/ml-sklearn-saving-model/)
