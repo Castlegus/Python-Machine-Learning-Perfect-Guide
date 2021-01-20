@@ -28,6 +28,7 @@
 ### 5. 앙상블
 
 ### 6. 로그변환, 오버샘플링, AutoML, 분류 
+- [김성범[ 단장 / 4단계 BK21 산업경영공학교육연구단 ] - [핵심 머신러닝] 불균형 데이터 분석을 위한 샘플링 기법](https://www.youtube.com/watch?v=Vhwz228VrIk)
 - [Pycaret 공식 문서](https://pycaret.readthedocs.io/en/latest/index.html#): 공식 문서가 아주 잘 정리되어 있습니다.
 
 ## 기타
