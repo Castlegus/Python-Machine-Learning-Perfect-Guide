@@ -31,7 +31,7 @@
 
 ### 6. 로그변환, 오버샘플링, AutoML, 분류 
 - [김성범[ 단장 / 4단계 BK21 산업경영공학교육연구단 ] - [핵심 머신러닝] 불균형 데이터 분석을 위한 샘플링 기법](https://www.youtube.com/watch?v=Vhwz228VrIk)
-- [Pycaret 공식 문서](https://pycaret.readthedocs.io/en/latest/index.html#): 공식 문서가 아주 잘 정리되어 있습니다.
+- [Pycaret 공식 문서](https://pycaret.readthedocs.io/en/latest/index.html#): 파이썬 AutoML 오픈소스 라이브러리인 Pycaret 공식 문서가 아주 잘 정리되어 있습니다.
 
 ## 기타
 - 저자의 강의 [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)를 참고하여 공부하고 있습니다.
