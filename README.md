@@ -10,7 +10,8 @@
 
 -> BITAMIN 폴더에 빅데이터 학회 활동 내용을 정리하고 있습니다.
 
-[빅데이터 대학생 연합 동아리 BITAmin 활동 일지 (작성/제공: 비타민 기획부 김지윤)](https://cafe.naver.com/bitamin123/1685)
+[빅데이터 대학생 연합 동아리 BITAmin 활동 일지 1학기 (작성/제공: 비타민 기획부 김지윤)](https://cafe.naver.com/bitamin123/1685)
+[빅데이터 대학생 연합 동아리 BITAmin 활동 일지 2학기 (작성/제공: 비타민 기획부 김지윤)(https://blog.naver.com/PostList.nhn?blogId=bita_min&from=postList&categoryNo=6)
 
 ## 교재
 ![파이썬 머신러닝 완벽 가이드](https://user-images.githubusercontent.com/69614150/90767474-3f64f780-e328-11ea-8dc0-74147960f328.jpg)
