@@ -10,7 +10,8 @@
 
 -> BITAMIN 폴더에 빅데이터 학회 활동 내용을 정리하고 있습니다.
 
-[빅데이터 대학생 연합 동아리 BITAmin 활동 일지 (작성/제공: 비타민 기획부 김지윤)](https://cafe.naver.com/bitamin123/1685)
+[빅데이터 대학생 연합 동아리 BITAmin 활동 일지 1학기 (작성/제공: 비타민 기획부 김지윤)](https://cafe.naver.com/bitamin123/1685)
+[빅데이터 대학생 연합 동아리 BITAmin 활동 일지 2학기 (작성/제공: 비타민 기획부 김지윤)(https://blog.naver.com/PostList.nhn?blogId=bita_min&from=postList&categoryNo=6)
 
 ## 교재
 ![파이썬 머신러닝 완벽 가이드](https://user-images.githubusercontent.com/69614150/90767474-3f64f780-e328-11ea-8dc0-74147960f328.jpg)
@@ -35,6 +36,13 @@
 - [[T-Academy X KaKr] 성인 인구조사 소득 예측 대회](https://www.kaggle.com/c/kakr-4th-competition)
 
 ### 7.회귀(Regression) - 단순회귀, 다항회귀, 다중회귀
+
+### 8.다양한 회귀 알고리즘
+
+### *. 웹 크롤링
+
+### 9. 차원 축소 - PCA, LDA, SVD, NMF
+- [Tiny Data로 만들고 시각화 할 때 unstack과 transpose, reset_index를 언제 사용해야 하나요?](https://www.youtube.com/watch?v=Xt_L_iMXElU)
 
 ## 기타
 - 저자의 강의 [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)를 참고하여 공부하고 있습니다.
